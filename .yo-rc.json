@@ -1,7 +1,8 @@
 {
   "generator-jhipster": {
     "promptValues": {
-      "packageName": "co.com.suramericana.gateway"
+      "packageName": "co.com.suramericana.gateway",
+      "microservicePath": "../servicio"
     },
     "jhipsterVersion": "4.14.0",
     "baseName": "gateway",
